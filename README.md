@@ -31,6 +31,6 @@ hi, i'm Mirokshi Rojas, a passionate self-taught full stack web developer and st
     <img height="300px" src="https://metrics.lecoq.io/mirokshi?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 
-
-
-![](/assets/wip.gif)
+<div align="center">	
+<img at="Work in progress" src="/assets/wip.gif" />
+</div>
