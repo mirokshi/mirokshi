@@ -65,18 +65,14 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mirokshi"/>
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+    <img height="300px" src="https://metrics.lecoq.io/mirokshi?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 
 
